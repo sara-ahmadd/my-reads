@@ -34,4 +34,4 @@ npm start
 ##### The Resources :
 
 - Udacity Classroom.
-- Youtube Tutorials.
+
